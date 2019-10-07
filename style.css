@@ -1,0 +1,48 @@
+a {
+    text-decoration: none;
+    color: #0000ff;
+}
+a:hover { 
+    text-decoration: underline;
+}
+a:visited {
+    color: #0000ff;
+}
+
+body {
+    font-family: palatino, serif;
+    padding: 5em 5% 5%;
+}
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 0em;
+    font-weight: bold;
+}
+.last-name {
+    white-space: nowrap;
+}
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.2em;
+    margin-top: 0.8em;
+    margin-bottom: 1.5em;
+}
+hr {
+    width: 5em;
+}
+footer {
+    margin-top: 2.5em;
+    font-size: 0.7em;
+    text-align: center;
+}
+p {
+    font-size: 1em;
+}
+.container {
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+}
